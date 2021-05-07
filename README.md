@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karthikeyan094
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @karthikeyan
+- 👀 I’m interested in sotware development
 - 🌱 I’m currently learning REACTJS
 - 📫 How to reach me 
 
